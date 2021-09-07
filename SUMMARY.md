@@ -10,12 +10,13 @@
 ## Meta-Process
 
 * [Decision Logs](meta-process/decision-logs.md)
-* [Knowledge Cycle](meta-process/knowledge-cycle.md)
+* [Learning Cycle](meta-process/knowledge-cycle.md)
 
 ## Structure
 
 * [Associative](structure/associative.md)
 * [Hierarchical](structure/hierarchical.md)
+* [Concepts](structure/concepts.md)
 
 ## Activities
 
